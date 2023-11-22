@@ -1,3 +1,6 @@
 # Welcome
-# This training project
+# This training pre-project
 ___
+## SETUP
+## project with maven
+## jdk 17
